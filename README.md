@@ -68,7 +68,7 @@ English · Français · Русский · Kreol Morisien
 <td width="50%" valign="top">
 <a href="https://olegnar.com"><img src="https://image.thum.io/get/width/700/crop/420/wait/6/noanimate/https://olegnar.com" width="100%" /></a>
 <h3>olegnar.com</h3>
-Personal portfolio and home of <b>VulnChecker</b>, my web vulnerability checker.<br/>
+Personal portfolio. Home of <a href="https://github.com/oleg-nar/vulnchecker"><b>VulnChecker</b></a>, my website security auditor (source on GitHub).<br/>
 <a href="https://olegnar.com"><img src="https://img.shields.io/badge/visit-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </td>
 <td width="50%" valign="top">
@@ -115,12 +115,13 @@ Live Bokun availability and booking integration for a watersports operator.<br/>
 
 ## <img src="https://skillicons.dev/icons?i=github" width="26" /> &nbsp;`./repos`
 
-> 🔒 = private (client or uni work). Ask and I'll walk you through it.
+> 🌐 = public, 🔒 = private (client or uni work). Ask and I'll walk you through it.
 
 ### 🛡️ Security
 
 | | Repo | What it does | Stack |
 |:-:|---|---|---|
+| <img src="https://skillicons.dev/icons?i=js" width="28" /> | **[vulnchecker](https://github.com/oleg-nar/vulnchecker)** 🌐 | Chrome extension that audits a site's security headers, cookies, CSP, exposed paths, secrets, outdated libraries, privacy, SEO and accessibility. Runs 100% locally | JavaScript · Manifest V3 |
 | <img src="https://skillicons.dev/icons?i=html" width="28" /> | **olegnar-phishing** 🔒 | Full-stack, authorised phishing-awareness platform: campaigns, landing pages, click tracking. Self-hosted on Kali | HTML · JS |
 | <img src="https://skillicons.dev/icons?i=bash" width="28" /> | **phisher** 🔒 | Phishing test-link lab for awareness training | Bash |
 | <img src="https://skillicons.dev/icons?i=python" width="28" /> | **CW2_M01127900_CST1510** 🔒 | Secure Multidomain Intelligence Platform: bcrypt auth, role-based access, LLM analysis. **91/100** | Python · SQLite · Streamlit |
