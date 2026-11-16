@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.svg" width="230" alt="Oleg Narainen logo" />
+<img src="./logo-coin.gif" width="240" alt="Oleg Narainen logo" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=OLEG+NARAINEN;Offensive+Security+%2F%2F+Full-Stack+Builder;Breaking+things+to+build+them+better;%24+sudo+make+it+happen" alt="Typing intro" />
 
