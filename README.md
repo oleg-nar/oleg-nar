@@ -65,7 +65,7 @@ English · Français · Русский · Kreol Morisien
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://olegnar.com"><img src="https://image.thum.io/get/width/700/crop/420/https://olegnar.com" width="100%" /></a>
+<a href="https://olegnar.com"><img src="https://image.thum.io/get/width/700/crop/420/wait/6/noanimate/https://olegnar.com" width="100%" /></a>
 <h3>olegnar.com</h3>
 Personal portfolio and home of <b>VulnChecker</b>, my web vulnerability checker.<br/>
 <a href="https://olegnar.com"><img src="https://img.shields.io/badge/visit-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
@@ -93,7 +93,7 @@ Website for a sports equipment business, alongside the inventory and invoicing s
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://seaweedcrew.mu"><img src="https://image.thum.io/get/width/700/crop/420/https://seaweedcrew.mu" width="100%" /></a>
+<a href="https://seaweedcrew.mu"><img src="https://image.thum.io/get/width/700/crop/420/wait/4/https://seaweedcrew.mu" width="100%" /></a>
 <h3>Seaweed Crew</h3>
 Live Bokun availability and booking integration for a watersports operator.<br/>
 <a href="https://seaweedcrew.mu"><img src="https://img.shields.io/badge/visit-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
@@ -163,8 +163,6 @@ Live Bokun availability and booking integration for a watersports operator.<br/>
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=oleg-nar&theme=dark&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A0A0A0&dates=6E6E6E&stroke=303030&hide_border=true" alt="GitHub streak" />
-
-<img src="https://raw.githubusercontent.com/oleg-nar/oleg-nar/output/snake-dark.svg" alt="Contribution snake" width="100%" />
 
 <sub>`exit 0` · open to internships and freelance work · <a href="https://olegnar.com">olegnar.com</a> · <a href="https://www.instagram.com/oleg.n06/">@oleg.n06</a></sub>
 
