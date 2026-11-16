@@ -27,6 +27,7 @@ oleg-nar :: builder by day, breaker by night
 [+] Ships full-stack products for real clients, then attacks his own code
 [+] Running a home Active Directory lab for red-team practice
 [+] Target: OSCP
+[+] Currently: AD attack lab, phishing sim platform, Interval booking app
 
 ┌──(oleg㉿kali)-[~]
 └─$ cat languages.txt
