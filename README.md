@@ -105,7 +105,7 @@ Live Bokun availability and booking integration for a watersports operator.<br/>
 <b>Vinyro</b> · brand website<br/>
 <b>Winner Kayak</b> · tour website<br/>
 <b>ProSafe</b> · company website<br/>
-<b>Travelio</b> · live bus tracking app, Team Black Reef<br/>
+<b>Travelio</b> · live bus tracking app, Team Black Reef · <i>won Life Powered by Tech</i><br/>
 <b>Hatch & Ride</b> · Roblox game, Team Black Reef
 </td>
 </tr>
@@ -155,6 +155,7 @@ Live Bokun availability and booking integration for a watersports operator.<br/>
 ## 🏆 &nbsp;`./trophies`
 
 ```diff
++ Life Powered by Tech 2026 ........... 1st place · Rs 35,000 (Travelio)
 + Hack The Campus 2026 CTF ............ Runner-up
 + Game of Code 2026 ................... 2nd place
 + CST1510 Secure Platform ............. 91/100 Distinction
